@@ -1,0 +1,8 @@
+A deep learning-based Neural Machine Translation (NMT) model built from scratch using LSTMs (Seq2Seq with Attention) in PyTorch.
+
+📌 Features
+✅ Sequence-to-Sequence (Seq2Seq) Model with LSTM
+✅ Encoder-Decoder Architecture
+✅ Attention Mechanism for better context handling
+✅ Tokenization & Vocabulary Building using torchtext & spacy
+✅ Trained on Parallel Text Datasets
